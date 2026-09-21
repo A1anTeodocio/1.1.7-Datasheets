@@ -68,11 +68,11 @@ Use the table below to keep track of your sources before submitting.
 
 | Part Number | Manufacturer | Datasheet Link | Connection Diagram Located | Function Table Located |
 |---|---|---|---|---|
-| `74LS04` | _Texas Instrument_ | __https://www.alldatasheet.com/datasheet-pdf/pdf/27365/TI/74LS04.html_ | Yes / No | Yes / No |
-| `74LS08` | ___ | ___ | Yes / No | Yes / No |
-| `74LS32` | ___ | ___ | Yes / No | Yes / No |
-| `74LS74` | ___ | ___ | Yes / No | Yes / No |
-| `LM555` | ___ | ___ | Yes / No | Yes / No |
+| `74LS04` | _Texas Instrument_ | __https://www.alldatasheet.com/datasheet-pdf/pdf/27365/TI/74LS04.html_ | Yes  | Yes |
+| `74LS08` | _SemiConducter_ | _https://www.alldatasheet.com/datasheet-pdf/view/12619/ONSEMI/74LS08.html_ | Yes | No |
+| `74LS32` | _SemiConducter_ | _https://www.alldatasheet.com/datasheet-pdf/view/12652/ONSEMI/74LS32.html_ | Yes | No |
+| `74LS74` | _Hitachi Semiconductor_ | _https://www.alldatasheet.com/datasheet-pdf/view/64081/HITACHI/74LS74.html_ | Yes | Yes |
+| `LM555` | Texas Instrument | _https://www.alldatasheet.com/datasheet-pdf/view/791941/TI1/LM555.html_ | Yes | Yes |
 
 > **Image Placeholder:** Insert a screenshot or example of a datasheet connection diagram here.
 
