@@ -106,11 +106,11 @@ Recreate and complete the following table in your PLTW Engineering Notebook.
 
 | Part Number | IC Name or Function | One Manufacturer |
 |---|---|---|
-| `DM74LS00` | ___ | ___ |
-| `SN74LS02` | ___ | ___ |
-| `DM74LS75` | ___ | ___ |
-| `SN74LS86` | ___ | ___ |
-| `MAN6760` | ___ | ___ |
+| `DM74LS00` | Quad2-input NAND gate | Fairchild Semi Conductor. |
+| `SN74LS02` | _Quad 2-Input NOR GATE__ | Texas Instrument |
+| `DM74LS75` | _Quad Latch__ | _Farchild Semi Conductor_ |
+| `SN74LS86` | _Qual 2 Input OR Gate__ | ON Semiconductor__ |
+| `MAN6760` | __0.560 Segment Display_ | _Qt Optoelectronics_ |
 
 ## Research Notes
 
