@@ -1,4 +1,4 @@
-# 1.1.7 Datasheets
+b              # 1.1.7 Datasheets
 
 ## Overview
 
@@ -216,9 +216,9 @@ As you research each package, pay attention to:
 
 Locate the CHIPS Act quote provided by your instructor or course materials.
 
-**Summarize the quote in your own words.**
+**Summarize the quote in your own words
 
-> _Write your response here._
+The quote states that programs should fund or invest in the development of these developments of microelectronics  since its going to be the next generation that are going to be made and be better than other competitors.
 
 ## NIST Research
 
