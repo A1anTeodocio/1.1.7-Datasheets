@@ -147,9 +147,9 @@ Recreate and complete the following table in your PLTW Engineering Notebook.
 |---|---|---|
 | 3-input AND gate |  | _SN74LS11N_ |
 | 3-input NAND gate |  __ | _74LS10N __ |
-| 4-input AND gate | 4 input lines left and 1 in the right. __ | _74LS21 __ |
-| 4-input NAND gate | ___ | ___ |
-| 3-input NOR gate | ___ | ___ |
+| 4-input AND gate |  __ | _74LS21 __ |
+| 4-input NAND gate | ___ | SN74LS20_ |
+| 3-input NOR gate | ___ | __ SN74LS27_ |
 
 > **Image Placeholder:** Insert an image of your table from your engineering notebook here.
 
@@ -176,11 +176,11 @@ Use the internet to identify the full name of each package style. Draw a sample 
 
 ## Required Package Styles
 
-- DIP
-- SOIC
-- QFP
-- PLCC
-- BGA
+- DIP: Dual In Line Package
+- SOIC: Small Outline Integrated Circuit
+- QFP: Quad Flat Package
+- PLCC: Plastic Leaded Chip Carrier
+- BGA: Ball Grid Array
 
 ## Deliverable
 
