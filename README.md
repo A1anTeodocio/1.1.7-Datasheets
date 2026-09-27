@@ -296,27 +296,27 @@ Use your research and datasheets to answer the following questions.
 
 **What is the function of a `MAN6760`?**
 
-> _Write your answer here._
+> To display digital number signals as an LED._
 
 ### LM555 Timer
 
 **How many pins does an `LM555` timer have?**
 
-> _Write your answer here._
+> _There is 8 Pins._
 
 ### 74LS08
 
 **What is the maximum supply voltage for a `74LS08`?**
 
-> _Write your answer here._
+> _7 Volts.._
 
 ## Summary Table
 
 | Component | Summary Answer |
 |---|---|
-| `MAN6760` | ___ |
-| `LM555` | ___ |
-| `74LS08` | ___ |
+| `MAN6760` | Displays numbers signals as LED to visualize |
+| `LM555` | _Has 8 pins_ |
+| `74LS08` | 7 V |
 
 ---
 
