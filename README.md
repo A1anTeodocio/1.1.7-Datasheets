@@ -151,7 +151,7 @@ Recreate and complete the following table in your PLTW Engineering Notebook.
 | 4-input NAND gate | ___ | SN74LS20_ |
 | 3-input NOR gate | ___ | __ SN74LS27_ |
 
-> **Image Placeholder:** Insert an image of your table from your engineering notebook here.
+> **Image Placeholder:** IMAGE IS IN IMG_1584.jpeg.
 
 <!-- IMAGE: Standard AND, NAND, OR, NOR, XOR, and NOT gate symbols -->
 
@@ -194,7 +194,7 @@ Recreate and complete the following table in your PLTW Engineering Notebook.
 | PLCC | ___ | Draw here |
 | BGA | ___ | Draw here |
 
-> **Image Placeholder:** Insert an image from your notebook showing common IC package styles here.
+> **Image Placeholder:** IMAGE IS IN IMG_1584.jpeg.
 
 <!-- IMAGE: DIP, SOIC, QFP, PLCC, and BGA package comparison -->
 
