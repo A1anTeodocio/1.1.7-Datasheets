@@ -230,25 +230,25 @@ Address the following questions in complete sentences.
 
 **When and why was NIST created?**
 
-> _Write your response here._
+> _NIST was created/founded in March 3/3/1901, it was created to Boost US technology to not fall back by other rivals._
 
 ### 2. NIST Function
 
 **What is the role of NIST in the United States?**
 
-> _Write your response here._
+> _The role of NIST in the United States is to provide better technology.._
 
 ### 3. Semiconductor Research
 
 **Why was NIST selected to conduct research and development that supports advancements in semiconductors?**
 
-> _Write your response here._
+> Because of its high level of metrology, technical standards and its trusted role of a federal laboratory.._
 
 ### 4. Connection to Digital Electronics
 
 **How do standards, measurement, manufacturing, and semiconductor research affect the electronic devices people use every day?**
 
-> _Write your response here._
+> _The semiconductors and others research affect the electronic devices people use everyday great since they work on providing better affordable electronics._
 
 ---
 
